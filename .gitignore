@@ -4,3 +4,10 @@
 *.log
 
 src/main/resources/application-dev.properties
+
+/target
+.classpath
+.project
+.settings
+.springBeans
+.idea/
